@@ -1,0 +1,36 @@
+_repo: Surgery-with-Special-Reference-to-Podiatry_41725
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41725-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Adams, Edward
+    birthdate: 1877
+    gutenberg_agent_id: '1962'
+    url: http://www.gutenberg.org/2009/agents/1962
+  - agent_name: Stern, Maximilian
+    alias: Stern, Maxmilian
+    birthdate: 1878
+    gutenberg_agent_id: '41326'
+    url: http://www.gutenberg.org/2009/agents/41326
+  editor:
+    agent_name: Lewi, Maurice J.
+    birthdate: 1857
+    gutenberg_agent_id: '41327'
+    url: http://www.gutenberg.org/2009/agents/41327
+description: ''
+gutenberg_issued: '2012-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41725'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RD'
+- !lcsh 'Foot -- Surgery'
+- !lcsh 'Surgery'
+title: Surgery, with Special Reference to Podiatry
+url: http://www.gutenberg.org/ebooks/41725
