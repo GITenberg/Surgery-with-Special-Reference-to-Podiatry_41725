@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '41327'
     url: http://www.gutenberg.org/2009/agents/41327
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41725#Surgery-with-Special-Reference-to-Podiatry
 gutenberg_issued: '2012-12-28'
 gutenberg_type: Text
 identifiers:
